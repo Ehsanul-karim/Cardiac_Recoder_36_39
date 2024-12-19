@@ -1,7 +1,7 @@
 # Cardiac_Recoder_36_39
 Software Engineering Collaborative Project 
 
-This is a useful application for every individual who wishes to maintain a healthy and sound life by keeping track of their systolic and diastolic pressure, as well as heart rate.
+This is a useful application for every individual who wishes to maintain a healthy and sound life by keeping track of their systolic and diastolic pressure, as well as heart rate. Please visit Wiki for more details.
 <hr>
 
 ## Features
